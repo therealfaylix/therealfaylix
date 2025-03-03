@@ -10,7 +10,6 @@ I'm a passionate developer and designer, focused on building modern and efficien
 🔹 **Interests:**  
 - Full-stack development  
 - SaaS and product design  
-- PC building for dev & content creation  
 - Open-source collaboration  
 
 ## 🛠 Tech Stack  
